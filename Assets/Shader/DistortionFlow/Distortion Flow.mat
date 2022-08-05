@@ -39,12 +39,14 @@ Material:
     - _FlowOffset: 0
     - _FlowStrength: 0.1
     - _Glossiness: 0.7
-    - _HeightScale: 0.1
+    - _HeightScale: 1.38
     - _HeightScaleModulated: 9
     - _Metallic: 0
     - _Speed: 0.5
     - _Tiling: 10
     - _UJump: -0.25
     - _VJump: 0.2083333
+    - _WaterFogDensity: 0.183
     m_Colors:
-    - _Color: {r: 0.41037738, g: 0.7537839, b: 1, a: 0.92941177}
+    - _Color: {r: 0.41037726, g: 0.7537839, b: 1, a: 0.6745098}
+    - _WaterFogColor: {r: 0.30411175, g: 0.6874312, b: 0.9622641, a: 1}
